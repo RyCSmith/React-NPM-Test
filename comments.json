@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Hey there!",
+        "id": 1388534400000,
+        "author": "Pete Hunt"
+    },
+    {
+        "text": "React is *great*!",
+        "id": 1420070400000,
+        "author": "Paul O\u2019Shannessy"
+    },
+    {
+        "text": "New Comment!",
+        "id": 1420070400001,
+        "author": "Ryan Smith"
+    },
+    {
+        "text": "comment",
+        "id": 1466347738840,
+        "author": "Full Name"
+    },
+    {
+        "text": "vjb",
+        "id": 1466355980509,
+        "author": "bjj"
+    },
+    {
+        "text": "test",
+        "id": 1466428885556,
+        "author": "Tet"
+    }
+]
